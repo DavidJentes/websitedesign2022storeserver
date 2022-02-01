@@ -1,4 +1,4 @@
-push: cgit gh
+push: gh cgit
 
 run:
 	node .
