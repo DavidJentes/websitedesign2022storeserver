@@ -1,5 +1,8 @@
 push: cgit gh
 
+run:
+	node .
+
 gh:
 	git push -u ghmirror
 

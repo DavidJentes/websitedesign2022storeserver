@@ -1,0 +1,19 @@
+{
+  "name": "websitedesign2022storeserver",
+  "version": "2022.1.0",
+  "description": "Website Design RSC 2022 (server for store)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjentes/websitedesign2022storeserver.git"
+  },
+  "author": "David Jentes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/davidjentes/websitedesign2022storeserver/issues"
+  },
+  "homepage": "https://github.com/davidjentes/websitedesign2022storeserver#readme"
+}
